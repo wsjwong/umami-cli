@@ -1,4 +1,4 @@
-# umami-cli
+# umami
 
 A minimal Node.js CLI for exporting Umami metrics (no external runtime dependencies).
 
@@ -15,7 +15,7 @@ node ./umami.mjs --help
 # optional global command via npm link
 npm install
 npm link
-umami-cli --help
+umami --help
 ```
 
 ## Command
