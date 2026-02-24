@@ -4,6 +4,7 @@
   "description": "Minimal CLI to export Umami path visitors",
   "type": "module",
   "bin": {
+    "umami": "./umami.mjs",
     "umami-cli": "./umami.mjs"
   },
   "scripts": {
