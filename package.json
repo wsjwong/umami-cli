@@ -1,0 +1,18 @@
+{
+  "name": "umami-cli",
+  "version": "0.1.0",
+  "description": "Minimal CLI to export Umami path visitors",
+  "type": "module",
+  "bin": {
+    "umami-cli": "./umami.mjs"
+  },
+  "scripts": {
+    "help": "node ./umami.mjs --help"
+  },
+  "keywords": [
+    "umami",
+    "analytics",
+    "cli"
+  ],
+  "license": "MIT"
+}
